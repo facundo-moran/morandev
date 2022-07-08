@@ -6,10 +6,10 @@
 *  [linkedin](https://www.linkedin.com/in/facumoransi/) 📌
 
 ### I like to code in 😎
-*  Java
-*  Javascript
-*  SQL
+*  **Java**
+*  **Javascript**
+*  **SQL**
 
 ### I'm interested in 🤓
-* Web Development
+* **Web Development**
 
